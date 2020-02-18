@@ -1,4 +1,4 @@
-##### eb-tomcat-snakes
+#*** eb-tomcat-snakes****
 Tomcat application that shows the use of RDS in a Java EE web application in AWS Elastic Beanstalk. The project shows the use of Servlets, JSPs, Simple Tag Support, Tag Files, JDBC, SQL, Log4J, Bootstrap, Jackson, and Elastic Beanstalk configuration files.
 ## Update new line readme file extra one added 
 ############# INSTRUCTIONS
@@ -7,7 +7,7 @@ If you would like to run the web app locally, install Tomcat 8 and Postgresql 9.
 
 You can deploy the ROOT.war archive that build.sh generates to an AWS Elastic Beanstalk web server environment running the Tomcat 8 platform.
 
-###################################### To download, build and deploy the project
+#Download, build and deploy the project
 Clone the project (SSH):
 
 	~$ git clone git@github.com:awslabs/eb-tomcat-snakes.git
